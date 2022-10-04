@@ -16,7 +16,7 @@
 
 ### Info
 
-This is a simple hobby project which I was really curious about to implement. This is a Telegram bot which uses [Youtube Data API v3](https://developers.google.com/youtube/v3/ "Youtube Data API v3") to upload videos to Youtube.
+This is a simple hobby project which I was really curious about to implement. This is a Telegram bot whis [Youtube Data API v3](https://developers.google.com/youtube/v3/ "Youtube Data API v3") to upload videos to Youtube.
 
 ### Libraries Used
 
